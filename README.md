@@ -21,7 +21,7 @@ This is portfolio hosting site made to host individual information of bio, skill
 </p>
 
 
-## 💖 Like our project?
+## 💖 Like my project?
 ```
 This is a project solely developed for hosting portfolios in a simple but elegant manner
 ```
